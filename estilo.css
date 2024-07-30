@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(250, 214, 161);
+}
+
+.box {
+	width: 150px;
+	display: inline-block;
+}
+marquee img{
+    margin: 10px;
+}
+.figura{
+width: 150px;
+}
+.fonte{
+    color: rgb(114, 31, 31);
+    size: 1000px;
+    width: 100000px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+   
+}
